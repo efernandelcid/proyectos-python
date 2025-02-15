@@ -111,7 +111,7 @@ print(f"Tiempo busqueda binaria: {tiempo_binario} segundos")
 
 ## VIDEO
 
-- [drive]https://drive.google.com/file/d/1c70xxWrlNpQ2Thpff0lsLEyscctTT9HU/view?usp=drive_link
+- [drive] https://drive.google.com/file/d/1c70xxWrlNpQ2Thpff0lsLEyscctTT9HU/view?usp=drive_link
 
 
 ## BIBLIOGRAFIA 
