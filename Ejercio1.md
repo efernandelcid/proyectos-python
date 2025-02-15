@@ -109,6 +109,10 @@ print(f"Tiempo busqueda binaria: {tiempo_binario} segundos")
 - La **búsqueda binaria** es mucho más rápida, pero requiere que la lista esté ordenada.
 - La comparación de tiempos de ejecución permite ver la diferencia de rendimiento entre ambas estrategias.
 
+## VIDEO
+
+https://drive.google.com/file/d/1c70xxWrlNpQ2Thpff0lsLEyscctTT9HU/view?usp=drive_link
+
 
 ## BIBLIOGRAFIA 
 
