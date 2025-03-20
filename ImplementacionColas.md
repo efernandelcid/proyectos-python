@@ -125,7 +125,16 @@ Atendiendo: Cliente regular 2
 Tamaño de la cola: 1
 ```
 
+## Codigo
+https://github.com/efernandelcid/proyectos-python/blob/main/implementacionColas.py
+
+
+## Video
+https://drive.google.com/file/d/1emQi9p1Gkebtp8PCF4-Ttx1NfHtcXAAC/view?usp=drive_link
+
+
 ## Conclusión
 Esta implementación permite gestionar colas con prioridad de forma eficiente, asegurando que los elementos de alta prioridad sean atendidos antes que los normales. Es útil en aplicaciones como gestión de tareas y atención al cliente.
+
 
 
